@@ -1,0 +1,23 @@
+apikey = bdd3dff46fd44d6fb67e22c54cdfbba1
+
+http://newsapi.org/v2/{endpoint}?{parameters}&apiKey=bdd3dff46fd44d6fb67e22c54cdfbba1
+
+endpoints: 
+    /everything
+    /top-headlines
+
+parameters:
+    category
+    country
+    q
+    sources
+    domains
+    from
+    to
+    language
+    sortBy
+    page
+
+
+To query everything
+You must include at least one q, source, or domain

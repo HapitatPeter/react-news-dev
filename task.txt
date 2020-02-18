@@ -1,0 +1,18 @@
+Uppgiftsbeskrivning
+Bygg en nyhetssida i stil med Aftonbladet.se med lite extra funktionalitet.
+
+Funktionalitet som ska finnas med
+1: Visa upp nyhetsflödet från tilldelad API-endpoint
+2: Klicka på en artikel och visa nyheten på en ny sida
+3: Stjärnmarkera en artikel så att det sparas globalt
+4: Kunna filtrera ut/visa endast stjärnmarkerade nyheter
+
+Tekniker
+React
+React Router
+Context API
+Sass
+
+Övrigt
+Designen behöver inte läggas någon större tid på
+Det viktiga är inte att allt blir rätt utan att vi får se hur du resonerar och tar dig fram
